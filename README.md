@@ -21,20 +21,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (AI Automation Frameworks)
+### AI Automation & Agent Platforms
 
-- **[Gumloop](https://gumloop.com/)**  
-  No-code AI automation platform for building complex workflows with visual agents and LLM-powered nodes.
-
-- **[Dataiku](https://www.dataiku.com/)**  
-  Enterprise AI platform for building, deploying, and governing data pipelines and AI automations at scale.
-
-- **[LaunchDarkly](https://launchdarkly.com/)**  
-  Feature management platform with growing AI capabilities for intelligent rollout and experimentation automation.
+| Product | Description | Pricing (Paid) | Free Tier / Limit |
+| :--- | :--- | :--- | :--- |
+| **[Gumloop](https://gumloop.com/)** | No-code AI automation for complex workflows and visual agents. | Starts at $37/mo | 5,000 credits/mo |
+| **[Dify Cloud](https://dify.ai/)** | AI application development with workflow orchestration and agent capabilities. | Starts at $59/mo | 200 message credits (trial) |
+| **[Relevance AI](https://relevanceai.com/)** | Low-code platform for building AI agents and autonomous workflows. | Starts at $29/mo | 200 actions/mo |
+| **[Lindy](https://lindy.ai/)** | AI-native personal assistant and workflow automation platform. | Starts at $49.99/mo | 400 credits/mo |
+| **[Skyvern](https://skyvern.com/)** | Browser-based AI automation for interacting with any website. | Starts at $29/mo | 1,000 credits/mo |
+| **[MultiOn](https://multion.ai/)** | Agentic web browser automation for complex tasks across sites. | Starts at $20/mo | Limited trial (~20-50 credits) |
+| **[Zapier Central](https://zapier.com/central)** | AI-orchestration platform for building custom AI agents with Zapier. | Starts at $29.99/mo | 100 tasks/mo (Free plan) |
+| **[Make.com](https://make.com/)** | Visual automation platform for connecting 1000s of apps with AI. | Starts at ~$9/mo | 1,000 credits/mo |
+| **[n8n Cloud](https://n8n.io/cloud/)** | Managed version of the powerful n8n workflow tool with AI nodes. | Starts at ~€20/mo | 14-day free trial |
+| **[Flowise Cloud](https://flowiseai.com/)** | Managed visual builder for LLM-powered workflows and agents. | Starts at $35/mo | 100 predictions/mo |
+| **[Langflow Cloud](https://www.datastax.com/products/langflow)** | DataStax managed visual development for LangChain-based AI. | Consumption-based | $25/mo free credit (Astra DB) |
+| **[LaunchDarkly](https://launchdarkly.com/ai-agent-controls/)** | Feature management with advanced AI agent controls and experimentation. | Usage-based | 5,000 AI runs/mo |
+| **[Dataiku](https://www.dataiku.com/)** | Enterprise AI platform for scaling data pipelines and automations. | Custom Pricing | 14-day SaaS trial |
+| **[Temporal Cloud](https://temporal.io/cloud)** | Reliable workflow orchestration for mission-critical AI applications. | Consumption-based | $1,000 free credits (90 days) |
+| **[Prefect Cloud](https://www.prefect.io/cloud)** | Modern workflow orchestration for data and AI pipelines. | Starts at ~$100/mo | 500 managed mins/mo |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Zapier AI Agents, Make.com, n8n Cloud, and various agent orchestration platforms.
+**Other notable mentions**: Various enterprise agent orchestration platforms and niche industry-specific AI automation tools.
 
 ## Open-Source GitHub Projects
 

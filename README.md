@@ -134,3 +134,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 **Made for automation engineers, AI developers, product teams, and no-code builders.**  
 Let's make AI-powered automation more accessible, controllable, and open. 🌍✨
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for autonomous AI agents. Automation frameworks use it to verify agent identity before delegating tasks across agent boundaries. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+

@@ -4,11 +4,15 @@
 
 **A curated list of the best AI Automation Frameworks, Autonomous Agents, and Agentic LLM Workflows.**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Automation-Frameworks?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/Awesome-AI-Automation-Frameworks/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Automation-Frameworks?style=for-the-badge&color=007bff)](https://github.com/ishandutta2007/Awesome-AI-Automation-Frameworks/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg?style=for-the-badge)](http://makeapullrequest.com)
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="line">

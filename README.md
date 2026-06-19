@@ -68,42 +68,41 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 ### 🛠️ Dedicated AI Automation & Workflow Frameworks
 
-- **[n8n](https://github.com/n8n-io/n8n)** 🌟  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) 🌟  
   Powerful open-source workflow automation tool with excellent LLM nodes, AI agent capabilities, and self-hosting support. The leading Zapier alternative.
 
-- **[LangGraph](https://github.com/langchain-ai/langgraph)** 🧠  
-  Production-grade graph-based framework for building stateful, reliable AI agents and complex multi-step automations.
-
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** 👥  
-  Popular role-based multi-agent orchestration framework for building collaborative AI automation teams.
-
-- **[Flowise](https://github.com/FlowiseAI/Flowise)** 🎨  
-  Open-source low-code tool for building LLM-powered workflows and agents with a visual drag-and-drop interface.
-
-- **[Langflow](https://github.com/langflow-ai/langflow)** 🌊  
+- **[Langflow](https://github.com/langflow-ai/langflow)** [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers) 🌊  
   Visual development environment for creating LangChain-based AI automations and applications.
 
-- **[Dify](https://github.com/langgenius/dify)** 🏗️  
+- **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) 🏗️  
   Open-source AI application development platform with workflow orchestration, agent capabilities, and visual builder.
 
-- **[Microsoft AutoGen](https://github.com/microsoft/autogen)** 💬  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers) 👥  
+  Popular role-based multi-agent orchestration framework for building collaborative AI automation teams.
+
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) 🎨  
+  Open-source low-code tool for building LLM-powered workflows and agents with a visual drag-and-drop interface.
+
+- **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers) 🧠  
+  Production-grade graph-based framework for building stateful, reliable AI agents and complex multi-step automations.
+
+- **[Phidata](https://github.com/phidatahq/phidata)** [![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=social&color=white)](https://github.com/phidatahq/phidata/stargazers) 💾  
+  Framework for building production AI agents with memory, knowledge, and tools for automation tasks.
+
+- **[Microsoft AutoGen](https://github.com/microsoft/autogen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers) 💬  
   Multi-agent conversation framework for building sophisticated autonomous automation systems.
 
-- **[Node-RED](https://github.com/node-red/node-red)** 🕸️  
+- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) 🕸️  
   Flow-based programming tool for wiring together hardware devices, APIs, and AI services. Highly extensible with LLM nodes.
-
-- **[Phidata](https://github.com/phidatahq/phidata)** 💾  
-  Framework for building production AI agents with memory, knowledge, and tools for automation tasks.
 
 ### ➕ Additional Strong Open-Source Options
 
-- **[Haystack](https://github.com/deepset-ai/haystack)** 🌾 — Production-ready RAG and automation pipelines.
-- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** 🧩 — Microsoft’s orchestration framework for AI plugins and planners.
-- **[Camunda](https://github.com/camunda)** ⚙️ — Open-source workflow and automation engine with BPMN support.
-- **[Temporal](https://github.com/temporalio/temporal)** ⏳ — Reliable workflow orchestration for complex AI automations.
-- **[Prefect](https://github.com/PrefectHQ/prefect)** 🎯 — Modern workflow orchestration for data and AI pipelines.
-
-- **[Aeon](https://github.com/aaronjmars/aeon)** 🤖 — Autonomous agent framework that runs unattended on GitHub Actions; 90+ Markdown skills on cron or reactive triggers, a self-healing loop that scores its own output and auto-patches failing skills, persistent memory, and MCP + A2A integrations.
+- **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social&color=white)](https://github.com/microsoft/semantic-kernel/stargazers) 🧩 — Microsoft’s orchestration framework for AI plugins and planners.
+- **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers) 🌾 — Production-ready RAG and automation pipelines.
+- **[Prefect](https://github.com/PrefectHQ/prefect)** [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social&color=white)](https://github.com/PrefectHQ/prefect/stargazers) 🎯 — Modern workflow orchestration for data and AI pipelines.
+- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers) ⏳ — Reliable workflow orchestration for complex AI automations.
+- **[Camunda](https://github.com/camunda/camunda)** [![GitHub stars](https://img.shields.io/github/stars/camunda/camunda?style=social&color=white)](https://github.com/camunda/camunda/stargazers) ⚙️ — Open-source workflow and automation engine with BPMN support.
+- **[Aeon](https://github.com/aaronjmars/aeon)** [![GitHub stars](https://img.shields.io/github/stars/aaronjmars/aeon?style=social&color=white)](https://github.com/aaronjmars/aeon/stargazers) 🤖 — Autonomous agent framework that runs unattended on GitHub Actions; 90+ Markdown skills on cron or reactive triggers, a self-healing loop that scores its own output and auto-patches failing skills, persistent memory, and MCP + A2A integrations.
 
 ---
 

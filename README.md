@@ -103,6 +103,8 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 - **[Temporal](https://github.com/temporalio/temporal)** ⏳ — Reliable workflow orchestration for complex AI automations.
 - **[Prefect](https://github.com/PrefectHQ/prefect)** 🎯 — Modern workflow orchestration for data and AI pipelines.
 
+- **[Aeon](https://github.com/aaronjmars/aeon)** 🤖 — Autonomous agent framework that runs unattended on GitHub Actions; 90+ Markdown skills on cron or reactive triggers, a self-healing loop that scores its own output and auto-patches failing skills, persistent memory, and MCP + A2A integrations.
+
 ---
 
 ## 🤝 How to Contribute
